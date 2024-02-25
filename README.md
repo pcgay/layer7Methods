@@ -9,14 +9,13 @@ npm i
 To use the scripts, execute the appropriate command in your terminal as per your requirement:
 
 - For `CyberRapidHTTP2.js`, use:
-node CyberRapidHTTP2.js <url> <time> <rps> <threads> <proxies>
-
+node CyberRapidHTTP2.js ```<url> <time> <rps> <threads> <proxies>```
 
 
 - For `CyberBypassHTTP2.js`, use:
 
 
-node CyberBypassHTTP2.js <url> <time> <rps> <type> <threads> <proxies>
+node CyberBypassHTTP2.js ```<url> <time> <rps> <type> <threads> <proxies>```
 
 
 #### Parameters:
